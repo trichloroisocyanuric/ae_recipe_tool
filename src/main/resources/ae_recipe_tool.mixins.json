@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.example.ae_recipe_tool.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EmiRecipeTransferMixin",
+    "EncodingHelperMixin",
+    "ReiRecipeTransferMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

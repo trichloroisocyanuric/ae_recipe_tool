@@ -1,0 +1,1 @@
+com.example.ae_recipe_tool.kubejs.ModKubeJSPlugin client
